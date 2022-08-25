@@ -863,7 +863,7 @@ Desde luego, no existe trayectoria para la corriente; por ello, el voltaje en el
 
 **4. Vídeo**
 
-https://www.youtube.com/watch?v=_HREUQ9SfpE&t=343
+https://www.youtube.com/watch=_HREUQ9SfpE&t=343
 
 ***
 
